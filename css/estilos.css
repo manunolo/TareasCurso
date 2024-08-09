@@ -1,0 +1,18 @@
+body{
+    background-color: coral;
+    color:white;
+}
+.colorFondo{
+    background-color: black;
+}
+.claseUno{
+    font-size: 32px;
+    font-family: sans-serif;
+    color:black;
+}
+.claseDos{
+    color:green;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:none;
+    border: 1px solid black;
+}
